@@ -1,0 +1,48 @@
+﻿@page "/edit/{Id:int}"
+
+<h3>Edit</h3>
+
+<EditForm Model="@ingredientModel" ValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label for="id">
+            Id :
+            <InputNumber id="id" @bind-Value="ingredientModel.Id" />
+        </label>
+    </p>
+    <p>
+        <label for="name">
+            Name :
+            <InputText id="name" @bind-Value="ingredientModel.Name" />
+        </label>
+    </p>
+    <p>
+        <label for="image">
+            Image :
+            <InputText id="image" @bind-Value="ingredientModel.Image" />
+        </label>
+    </p>
+    <p>
+        <label for="effect">
+            Effect :
+            <InputText id="effect" @bind-Value="ingredientModel.Effect" />
+        </label>
+    </p>
+    @*<p>
+        <label for="Special">
+            Special :
+            <InputBool id="image" @bind-Value="ingredientModel.Special" />
+        </label>
+    </p>*@
+
+    @*<p>
+        <label>
+            Accept Condition:
+            <InputCheckbox @bind-Value="ingredientModel.AcceptCondition" />
+        </label>
+    </p>*@
+
+    <button type="submit">Submit</button>
+</EditForm>

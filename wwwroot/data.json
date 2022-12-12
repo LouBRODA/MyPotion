@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Item_Glistering_Melon.png",
+    "name": "Melon Doré",
+    "effect": "Soin",
+    "special": false
+  },
+  {
+    "id": 2,
+    "name": "Poudre Lumineuse",
+    "image": "/images/Item_Glowstone_Dust.png",
+    "effect": "Puissance augment\u00E9e",
+    "special": true
+  },
+  {
+    "id": 3,
+    "name": "Poudre \u00E0 canon",
+    "image": "/images/Item_Gunpowder.png",
+    "effect": "Lan\u00E7able",
+    "special": true
+  },
+  {
+    "id": 4,
+    "name": "Cr\u00E8me de Magma",
+    "image": "/images/Item_Magma_Cream.png",
+    "effect": "Resistance au feu"
+  },
+  {
+    "id": 5,
+    "name": "Membrane de phantom",
+    "image": "/images/Item_Phantom_Membrane.png",
+    "effect": "Chute lente"
+  },
+  {
+    "id": 6,
+    "name": "Poisson Globe",
+    "image": "/images/Item_Pufferfish.png",
+    "effect": "Respiration aquatique"
+  },
+  {
+    "id": 7,
+    "name": "Pate de Lapin",
+    "image": "/images/Item_Rabbit\u0027s_Foot.png",
+    "effect": "Saut Am\u00E9lior\u00E9"
+  },
+  {
+    "id": 8,
+    "name": "Redstone",
+    "image": "/images/Item_Redstone.png",
+    "effect": "Dur\u00E9e augment\u00E9e",
+    "special": true
+  },
+  {
+    "id": 9,
+    "name": "Oeil d\u0027araign\u00E9e",
+    "image": "/images/Item_Spider_Eye.png",
+    "effect": "poison"
+  },
+  {
+    "id": 10,
+    "name": "Sucre",
+    "image": "/images/Item_Sugar.png",
+    "effect": "Rapidit\u00E9"
+  },
+  {
+    "id": 11,
+    "name": "Carapace de tortue",
+    "image": "/images/Item_Turtle_Shell.png",
+    "effect": "Ma\u00EEtre tortue"
+  }
+]

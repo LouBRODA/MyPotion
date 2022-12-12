@@ -1,0 +1,32 @@
+﻿@page "/alambic"
+@using MyPotion.Data
+
+<PageTitle>Alambic</PageTitle>
+
+<h1>@Localizer["Title"]</h1>
+    
+<body>
+<header>
+    <div>
+        <p>@test</p>
+    </div>
+</header>
+
+<footer>
+    <div>
+      @*<button><img src="/images/Item_Gunpowder.png" class="img-thumbnail" style="max-width: 150px" /></button>
+      <button><img src="/images/Item_Redstone.png" class="img-thumbnail" style="max-width: 150px" /></button>
+      <button><img src="/images/Item_Glowstone_Dust.png" class="img-thumbnail" style="max-width: 150px" /></button>*@
+            @if (ingredients != null)
+                {
+                
+                @foreach (var ingredient in ingredients)
+                {
+                    <button onclick="@onClickAction"><img src=@ingredient.Image class="img-thumbnail" style="max-width: 150px" /></button>
+                }
+            }
+    </div>
+
+</footer>
+
+</body>

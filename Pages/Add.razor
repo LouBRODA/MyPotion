@@ -1,0 +1,36 @@
+﻿@page "/add"
+@using MyPotion.Models;
+
+<h3>Add</h3>
+
+<EditForm Model="@ingredientModel" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label for="name">
+            Name :
+            <InputText id="name" @bind-Value="ingredientModel.Name" />
+        </label>
+    </p>
+    <p>
+        <label for="image">
+            Image :
+            <InputFile id="image" @bind-Value="ingredientModel.Image" accept=".png" />
+        </label>
+    </p>
+    <p>
+        <label for="effect">
+            Effect :
+            <InputText id="effect" @bind-Value="ingredientModel.Effect" />
+        </label>
+    </p>
+    <p>
+        <label for="special">
+            Special : 
+            <InputCheckbox @bind-Value="ingredientModel.Special" />
+        </label>
+    </p>
+
+    <button type="submit">Submit</button>
+</EditForm>
