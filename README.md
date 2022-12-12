@@ -1,17 +1,3 @@
-[![Build Status](https://codefirst.iut.uca.fr/api/badges/lou.broda/MyPotion/status.svg)](https://codefirst.iut.uca.fr/lou.broda/MyPotion)  
-[![Quality Gate Status](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=alert_status)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Bugs](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=bugs)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Code Smells](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=code_smells)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Coverage](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=coverage)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)  
-[![Duplicated Lines (%)](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=duplicated_lines_density)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Lines of Code](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=ncloc)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Maintainability Rating](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=sqale_rating)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Reliability Rating](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=reliability_rating)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)  
-[![Security Rating](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=security_rating)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Technical Debt](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=sqale_index)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)
-[![Vulnerabilities](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=MyPotion&metric=vulnerabilities)](https://codefirst.iut.uca.fr/sonar/dashboard?id=MyPotion)  
-
- 
 # **MYPOTION**
 
 ## Bonjour et bienvenue sur la page CodeFirst du projet MyPotion ! 👋
