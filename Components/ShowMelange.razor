@@ -1,0 +1,11 @@
+﻿@typeparam TMelange
+
+<div>
+    @if ((Melanges?.Count ?? 0) != 0)
+    {
+        @foreach (var melange in Melanges)
+        {
+            @ShowTemplate(melange);
+        }
+    }
+</div>

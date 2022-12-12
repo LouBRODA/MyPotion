@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMwZa2G1QCTy1Anxs4ThG9LLY/wC5J3YF39A5g0CV3Wx0IW0C7EW6xrwq2ynnhlisTsELK/infMWnv5bSCMvoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\MyPotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loubr\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\blazored.modal\\7.1.0\\blazored.modal.7.1.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.3\\microsoft.aspnetcore.components.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.3\\microsoft.aspnetcore.components.forms.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.3\\microsoft.aspnetcore.components.web.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\microsoft.aspnetcore.metadata.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.localization\\7.0.0\\microsoft.extensions.localization.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.0\\microsoft.extensions.localization.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\microsoft.jsinterop.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.3\\microsoft.jsinterop.webassembly.6.0.3.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
+    "C:\\Users\\loubr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyPotion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPotion.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Blaze_Powder.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Blaze_Powder.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Fermented_Spider_Eye.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Fermented_Spider_Eye.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Ghast_Tear.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Ghast_Tear.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Glistering_Melon.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Glistering_Melon.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Glowstone_Dust.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Glowstone_Dust.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Golden_Carrot.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Golden_Carrot.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Gunpowder.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Gunpowder.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Magma_Cream.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Magma_Cream.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Phantom_Membrane.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Phantom_Membrane.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Potion_of_Fire_Resistance.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Potion_of_Fire_Resistance.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Potion_of_Healing.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Potion_of_Healing.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Potion_of_Regeneration.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Potion_of_Regeneration.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Potion_of_Swiftness.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Potion_of_Swiftness.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Pufferfish.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Pufferfish.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Rabbit's_Foot.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Rabbit's_Foot.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Redstone.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Redstone.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Spider_Eye.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Spider_Eye.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Sugar.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Sugar.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Turtle_Shell.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Turtle_Shell.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\images\\Item_Water_Bottle.png",
+      "PackagePath": "staticwebassets\\css\\images\\Item_Water_Bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Blaze_Powder.png",
+      "PackagePath": "staticwebassets\\images\\Item_Blaze_Powder.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Fermented_Spider_Eye.png",
+      "PackagePath": "staticwebassets\\images\\Item_Fermented_Spider_Eye.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Ghast_Tear.png",
+      "PackagePath": "staticwebassets\\images\\Item_Ghast_Tear.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Glistering_Melon.png",
+      "PackagePath": "staticwebassets\\images\\Item_Glistering_Melon.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Glowstone_Dust.png",
+      "PackagePath": "staticwebassets\\images\\Item_Glowstone_Dust.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Golden_Carrot.png",
+      "PackagePath": "staticwebassets\\images\\Item_Golden_Carrot.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Gunpowder.png",
+      "PackagePath": "staticwebassets\\images\\Item_Gunpowder.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Magma_Cream.png",
+      "PackagePath": "staticwebassets\\images\\Item_Magma_Cream.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Phantom_Membrane.png",
+      "PackagePath": "staticwebassets\\images\\Item_Phantom_Membrane.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Potion_of_Fire_Resistance.png",
+      "PackagePath": "staticwebassets\\images\\Item_Potion_of_Fire_Resistance.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Potion_of_Healing.png",
+      "PackagePath": "staticwebassets\\images\\Item_Potion_of_Healing.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Potion_of_Regeneration.png",
+      "PackagePath": "staticwebassets\\images\\Item_Potion_of_Regeneration.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Potion_of_Swiftness.png",
+      "PackagePath": "staticwebassets\\images\\Item_Potion_of_Swiftness.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Pufferfish.png",
+      "PackagePath": "staticwebassets\\images\\Item_Pufferfish.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Rabbit's_Foot.png",
+      "PackagePath": "staticwebassets\\images\\Item_Rabbit's_Foot.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Redstone.png",
+      "PackagePath": "staticwebassets\\images\\Item_Redstone.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Spider_Eye.png",
+      "PackagePath": "staticwebassets\\images\\Item_Spider_Eye.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Sugar.png",
+      "PackagePath": "staticwebassets\\images\\Item_Sugar.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Turtle_Shell.png",
+      "PackagePath": "staticwebassets\\images\\Item_Turtle_Shell.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Item_Water_Bottle.png",
+      "PackagePath": "staticwebassets\\images\\Item_Water_Bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Spritesheet.PNG",
+      "PackagePath": "staticwebassets\\images\\Spritesheet.PNG"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Spritesheet2.png",
+      "PackagePath": "staticwebassets\\images\\Spritesheet2.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Spritesheet3.png",
+      "PackagePath": "staticwebassets\\images\\Spritesheet3.png"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\fondbarciel.jpg",
+      "PackagePath": "staticwebassets\\images\\fondbarciel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\loubr\\Source\\Repos\\MyPotion\\MyPotion\\wwwroot\\images\\mydragon.jpg",
+      "PackagePath": "staticwebassets\\images\\mydragon.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyPotion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyPotion.props",
+      "PackagePath": "build\\MyPotion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPotion.props",
+      "PackagePath": "buildMultiTargeting\\MyPotion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyPotion.props",
+      "PackagePath": "buildTransitive\\MyPotion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
