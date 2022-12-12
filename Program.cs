@@ -1,77 +1,41 @@
-using Blazored.LocalStorage;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using Microsoft.AspNetCore.Localization;
-using Microsoft.Extensions.Options;
-using MyPotion.Data;
-using MyPotion.Services;
-using System.Globalization;
-using Blazored.Modal;
-
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-builder.Services.AddRazorPages();
-builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
-builder.Services.AddHttpClient();
-
-// Add the controller of the app
-builder.Services.AddControllers();
-
-// Add the localization to the app and specify the resources path
-builder.Services.AddLocalization(opts => { opts.ResourcesPath = "Resources"; });
-
-// Configure the localtization
-builder.Services.Configure<RequestLocalizationOptions>(options =>
+namespace Minecraft.Crafting.Api
 {
-    // Set the default culture of the web site
-    options.DefaultRequestCulture = new RequestCulture(new CultureInfo("en-US"));
+    /// <summary>
+    /// The program.
+    /// </summary>
+    public class Program
+    {
+        /// <summary>
+        /// Defines the entry point of the application.
+        /// </summary>
+        /// <param name="args">The arguments.</param>
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
 
-    // Declare the supported culture
-    options.SupportedCultures = new List<CultureInfo> { new CultureInfo("en-US"), new CultureInfo("fr-FR") };
-    options.SupportedUICultures = new List<CultureInfo> { new CultureInfo("en-US"), new CultureInfo("fr-FR") };
-});
+            // Add services to the container.
 
-builder.Services.AddBlazoredLocalStorage();
+            builder.Services.AddControllers();
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IDataService, DataApiService>();
+            var app = builder.Build();
 
-builder.Services.AddBlazoredModal();
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
 
+            app.UseHttpsRedirection();
 
-var app = builder.Build();
+            app.UseAuthorization();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+            app.MapControllers();
+
+            app.Run();
+        }
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseStaticFiles();
-
-app.UseRouting();
-
-// Get the current localization options
-var options = ((IApplicationBuilder)app).ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
-
-if (options?.Value != null)
-{
-    // use the default localization
-    app.UseRequestLocalization(options.Value);
-}
-
-// Add the controller to the endpoint
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
-
-app.MapBlazorHub();
-app.MapFallbackToPage("/_Host");
-
-app.Run();
